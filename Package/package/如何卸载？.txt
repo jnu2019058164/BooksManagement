@@ -1,0 +1,3 @@
+该卸载教程仅针对window10
+
+打开“window设置”，点击“应用”，搜索“BookAdmin”，接着按照导航，卸载BookAdmin程序。

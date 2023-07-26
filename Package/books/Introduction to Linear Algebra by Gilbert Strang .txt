@@ -1,0 +1,5 @@
+线性代数导论
+
+ISBN：978-0-9802327-7-6
+作者：Gilbert Strang
+出版社：Wellesley-Cambridge Press
